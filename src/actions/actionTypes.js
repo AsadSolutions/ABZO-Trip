@@ -1,0 +1,18 @@
+// - LOGIN
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const LOGIN = 'LOGIN';
+export const LOGIN_START = 'LOGIN_START';
+//APPLICATION
+export const CHANGE_THEME = 'CHANGE_THEME';
+export const CHANGE_FONT = 'CHANGE_FONT';
+export const FORCE_APPEARANCE = 'FORCE_APPEARANCE';
+export const CHANGE_LANGUAGE = 'CHANGE_LANGUAGE';
+//Booking 
+export const INFO_FILTER = 'INFO_FILTER';
+export const RIDE_FILTER = 'RIDE_FILTER';
+export const STAY_FILTER = 'STAY_FILTER';
+export const GUIDE_FILTER = 'GUIDE_FILTER';
+export const PACKAGE_FILTER = 'PACKAGE_FILTER';
+export const PILGRIMAGE_FILTER = 'PILGRIMAGE_FILTER';
+export const BOOKING_ITEM = 'BOOKING_ITEM';
